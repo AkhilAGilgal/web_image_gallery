@@ -1,6 +1,7 @@
 const images = [
-    { src: 'https://example.com/your-image-folder/actual-sunrise-pic.jpg', alt: 'Sunrise over mountains', caption: 'Majestic sunrise from the peaks.' },
-    { src: 'https://external-host.net/city-night.png', alt: 'Cityscape at night', caption: 'Vibrant city lights after dusk.' },
+    { src: 'https://images.unsplash.com/photo-1506744038136-465a660a80e5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D', alt: 'Misty mountain range', caption: 'A serene view of misty mountains at dawn.' },
+    { src: 'https://images.pexels.com/photos/172289/pexels-photo-172289.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2', alt: 'City street at night', caption: 'Bright lights of a bustling city street at night.' },
+    { src: 'https://cdn.pixabay.com/photo/2016/10/27/22/35/forest-1776707_1280.jpg', alt: 'Path through an autumn forest', caption: 'An inviting path through a vibrant autumn forest.' },
     
 ];
 
