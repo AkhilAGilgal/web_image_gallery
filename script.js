@@ -1,9 +1,7 @@
 const images = [
-    { src: 'https://via.placeholder.com/800x450/FF5733/FFFFFF?text=Image+1', alt: 'Sunrise over mountains', caption: 'Majestic sunrise from the peaks.' },
-    { src: 'https://via.placeholder.com/800x450/33FF57/000000?text=Image+2', alt: 'Cityscape at night', caption: 'Vibrant city lights after dusk.' },
-    { src: 'https://via.placeholder.com/800x450/3357FF/FFFFFF?text=Image+3', alt: 'Peaceful forest path', caption: 'A serene path through the dense forest.' },
-    { src: 'https://via.placeholder.com/800x450/FF33CC/FFFFFF?text=Image+4', alt: 'Ocean waves crashing', caption: 'Powerful waves on a sandy beach.' },
-    { src: 'https://via.placeholder.com/800x450/CCFF33/000000?text=Image+5', alt: 'Abstract art', caption: 'Colorful abstract patterns.' }
+    { src: 'https://example.com/your-image-folder/actual-sunrise-pic.jpg', alt: 'Sunrise over mountains', caption: 'Majestic sunrise from the peaks.' },
+    { src: 'https://external-host.net/city-night.png', alt: 'Cityscape at night', caption: 'Vibrant city lights after dusk.' },
+    
 ];
 
 const mainImage = document.getElementById('mainImage');
